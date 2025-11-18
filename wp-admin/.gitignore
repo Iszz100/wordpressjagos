@@ -1,0 +1,10 @@
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/plugins/*
+
+# OS files
+.DS_Store
+
+# Wamp
+*.log
